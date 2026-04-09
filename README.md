@@ -21,11 +21,19 @@
   * **Ubuntu server: [CLick_Here](https://ubuntu.com/download/server)**
   * **Windows server: [CLick_Here](https://www.microsoft.com/en-us/evalcenter/)**
 
- ### (Note!)  
-+ * Allocate resources based on your system performance level
-+ * Avoid to run all of the  machine simultaneously ! prefer to run certain machine if that machine was needed simulate ! 
+> ### (Note!)  
+> * Allocate resources based on your system performance level
+> * Avoid to run all of the  machine simultaneously ! prefer to run certain machine if that machine was needed simulate ! 
 
 
-**after installing all the machines for the secure environment,  you must configure the network segmentation and firewall rules before performing the attack simulation ! to accomplish this use this !
-[lab _configuration]()
-which Provides the  solution to solve this problem ! 
+ **After installing all the machines for the secure environment,  you must configure the network segmentation and firewall rules before performing the attack simulation ! to accomplish this use this !**
+
+**[lab _configuration](https://github.com/Amirthaganesh7521/CyberSecurity_Lab_Setup/blob/main/Config/config.md)**
+
+**which Provides the  solution to solve this problem !**
+
+
+### Finally,
+ You created the real world  simulated and  secure lab environment !
+
+ And Thanks for Visiting !
