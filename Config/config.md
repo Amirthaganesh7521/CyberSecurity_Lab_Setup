@@ -1,6 +1,6 @@
 
 # Network Segmentation
-* Here, This configureation helps to setting the security lab network connection   
+* Here, This configuration helps to setting the security lab network connection   
 ```
 --------------------------------------------------------------------
 | Network      | CIDR           | Purpose           | Network Type  |
@@ -14,6 +14,6 @@
 ---------------------------------------------------------------------
 ```
 ## Note !
- *  Ensure the connection setup whenever perform attack simulation ! and keep this virtual lab privately in to your host .
- * To implement the firewall on each domian  which poses more effective setup  ! If you have enough capacity to your system.
+ *  Ensure the connection setup whenever perform attack simulation  ! and keep this virtual lab privately in to your host .
+ * To implement the firewall on each domain  which possess more effective setup  ! If you have enough capacity to your system.
  
