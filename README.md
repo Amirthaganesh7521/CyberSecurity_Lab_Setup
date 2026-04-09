@@ -12,6 +12,7 @@
 
 ## Resources: 
 **These are the following resources used to set this lab setup**
+
 * **Virtual_box:[click_Here](https://www.virtualbox.org/wiki/Downloads)**
 * **PF_Sense[Click_Here](https://www.pfsense.org/download/)**
 * **OS** *(Based on your capacity & need)*
@@ -19,4 +20,12 @@
   * **Windows :[Click_Here](https://www.microsoft.com/en-us/software-download/windows11)**
   * **Ubuntu server: [CLick_Here](https://ubuntu.com/download/server)**
   * **Windows server: [CLick_Here](https://www.microsoft.com/en-us/evalcenter/)**
- 
+
+ ### (Note!)  
++ * Allocate resources based on your system performance level
++ * Avoid to run all of the  machine simultaneously ! prefer to run certain machine if that machine was needed simulate ! 
+
+
+**after installing all the machines for the secure environment,  you must configure the network segmentation and firewall rules before performing the attack simulation ! to accomplish this use this !
+[lab _configuration]()
+which Provides the  solution to solve this problem ! 
