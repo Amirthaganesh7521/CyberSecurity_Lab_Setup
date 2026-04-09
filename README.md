@@ -3,8 +3,8 @@
 
 
 **Here, the high level simulated  lab setup Architecture** 
-**![Architecture diagram]**
+ * **[Architecture_diagram](https://github.com/Amirthaganesh7521/CyberSecurity_Lab_Setup/blob/main/Diagrams/Architecutre.png?raw=true)**
 
 
 **And,the Workflow diagram for this  simulated lab environment**  
-**![Workflow diagram]**
+* **[Workflow diagram](https://github.com/Amirthaganesh7521/CyberSecurity_Lab_Setup/blob/main/Diagrams/Workflow.png?raw=true)**
