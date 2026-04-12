@@ -23,7 +23,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 | Source                         | Destination                   | Protocol / Port | Action | Notes                              |
 | ------------------------------ | ----------------------------- | --------------- | ------ | ---------------------------------- |
-| Red Team Network (10.0.1.0/24) | Victim DMZ (e.g., web server) | TCP 80, 443     | Allow  | Simulates external attacker access |
+| Red Team Network (192.168.1.0/24) | Victim DMZ (e.g., web server) | TCP 80, 443     | Allow  | Simulates external attacker access |
 | Red Team Network               | Victim Internal Network       | Any             | Deny   | Prevent direct internal access     |
 | Red Team Network               | Blue Team / SIEM              | Any             | Deny   | No monitoring bypass               |
 | Red Team Network               | Management Network            | Any             | Deny   | Isolated from admin console        |
